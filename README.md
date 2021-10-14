@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, ReactNative, Cordova**
 
-- 👨‍💻 This is my website: [https://florent-lhelias.fr/](https://florent-lhelias.fr/) <a href="">test</a>
+- 👨‍💻 This is my website: <a href="https://florent-lhelias.fr" rel="follow">https://florent-lhelias.fr/</a>
 
 - 📝 I post articles here: [https://koi29.fr](https://koi29.fr)
 
