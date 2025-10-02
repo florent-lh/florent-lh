@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/psmlp" target="blank"><img src="https://img.shields.io/twitter/follow/psmlp?logo=twitter&style=for-the-badge" alt="psmlp" /></a> </p>
 
-- 🌱 I’m currently learning **Python, ReactNative, Cordova**
-
 - 👨‍💻 This is my website: <a href="https://florent-lhelias.fr" rel="follow">https://florent-lhelias.fr/</a>
 
 - 📝 I post articles here: [https://koi29.fr](https://koi29.fr)
 
-- 💬 Ask me about **JavaScript, html-css, php, Frameworks**
+- 💬 Ask me about **JavaScript, html-css, php, Frameworks, Python, Automation**
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
