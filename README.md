@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋! Welcome 😃!</h1>
 <h3 align="center">I am a developer. I mainly work on private repositories 😜</h3>
 
-<p align="left"> <a href="https://twitter.com/psmlp" target="blank"><img src="https://img.shields.io/twitter/follow/psmlp?logo=twitter&style=for-the-badge" alt="psmlp" /></a> </p>
-
 - 👨‍💻 This is my website: <a href="https://florent-lhelias.fr" rel="follow">https://florent-lhelias.fr/</a>
 
 - 📝 I post articles here: [https://koi29.fr](https://koi29.fr)
